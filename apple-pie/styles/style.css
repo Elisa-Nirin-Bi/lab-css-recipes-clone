@@ -16,7 +16,7 @@ header > h1{
   margin-top: 50px;
   text-align: center;
   line-height: 0.6;
-  font-size: 17px;
+  font-size: 16px;
   letter-spacing: 1px; 
 }
 
@@ -39,9 +39,49 @@ list-style-type: none;
   border-bottom: 1px solid grey;
 }
 
-#sectionTwo > img{
-  margin: 30px auto 20px auto;
-  width: 320px;
-  height: 70px;
+#sectionTwo {
+  margin-top: 50px ;
+  text-align: left;
+  line-height: 1.0;
+  font-size: 16px;
+  letter-spacing: 1px; 
 }
 
+#sectionTwo > ul {
+  padding-left: 530px;
+}
+
+#sectionTwo > img{
+  margin: 40px auto 20px 670px;
+  width: 320px;
+  height: 60px;
+}
+
+h3{
+  margin-bottom: 20px;
+  font-weight: bold;
+}
+
+#sectionThree {
+  margin-top: 50px ;
+  text-align: left;
+  line-height: 1.0;
+  font-size: 15px;
+  letter-spacing: 1px; 
+}
+
+#sectionThree > ul {
+  padding-left: 175px;
+}
+
+#sectionThree {
+  margin-top: 50px ;
+  text-align: left;
+  line-height: 0.5;
+  font-size: 15px;
+  letter-spacing: 1px; 
+}
+
+#sectionThree > ul {
+  padding-left: 530px;
+}
